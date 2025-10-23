@@ -3,16 +3,9 @@ import { Linkedin, Mail } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-      {/* Background Image with Overlay */}
-      <div 
-        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2070')",
-        }}
-      >
-        <div className="absolute inset-0 bg-gradient-to-br from-hero-overlay/90 to-hero-overlay/80" />
-      </div>
+    <section className="relative min-h-screen flex items-center justify-center overflow-hidden bg-gradient-to-br from-primary via-primary/95 to-accent">
+      {/* Subtle pattern overlay */}
+      <div className="absolute inset-0 bg-gradient-to-br from-black/20 to-transparent" />
 
       {/* Content */}
       <div className="relative container mx-auto px-6 py-32 text-center animate-fade-in">

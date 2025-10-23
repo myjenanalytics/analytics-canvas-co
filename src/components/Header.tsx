@@ -7,7 +7,7 @@ const Header = () => {
       <div className="container mx-auto px-6 py-4">
         <nav className="flex items-center justify-between">
           <Link to="/" className="flex items-center gap-3 transition-transform hover:scale-105">
-            <img src={logo} alt="MyJen Analytics" className="h-12 w-auto" />
+            <img src={logo} alt="MyJen Analytics" className="h-16 w-auto" />
           </Link>
           
           <div className="hidden md:flex items-center gap-8">
