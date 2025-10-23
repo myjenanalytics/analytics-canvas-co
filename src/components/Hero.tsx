@@ -9,6 +9,7 @@ const Hero = () => {
 
       {/* Content */}
       <div className="relative container mx-auto px-6 py-32 text-center animate-fade-in">
+        <p className="text-xl md:text-2xl text-white/80 mb-4 font-medium">MyJen Analytics</p>
         <h1 className="text-5xl md:text-7xl font-bold text-white mb-6 leading-tight">
           Transform Data Into
           <br />
@@ -16,8 +17,8 @@ const Hero = () => {
         </h1>
         
         <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-3xl mx-auto">
-          Expert data analytics consulting to help your business make informed decisions,
-          optimize operations, and drive measurable growth.
+          Expert data analytics consulting to help public health organizations and nonprofits 
+          make evidence-based decisions, improve program outcomes, and create lasting community impact.
         </p>
 
         <div className="flex flex-wrap items-center justify-center gap-4 mb-12">
