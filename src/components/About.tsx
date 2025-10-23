@@ -2,12 +2,12 @@ import headshot from "@/assets/headshot.jpg";
 import { CheckCircle2 } from "lucide-react";
 
 const expertise = [
-  "Data Strategy & Governance",
-  "Business Intelligence & Reporting",
-  "Statistical Analysis & Modeling",
-  "Data Visualization & Storytelling",
-  "Process Optimization",
-  "Stakeholder Engagement"
+  "Data Analysis & Visualization (Tableau, Power BI, SQL)",
+  "Program Evaluation & Needs Assessment",
+  "Epidemiological Research & Analysis",
+  "Grant Writing & Budget Management",
+  "Training & Technical Assistance",
+  "Curriculum Development & Strategic Planning"
 ];
 
 const About = () => {
@@ -27,15 +27,22 @@ const About = () => {
             <h2 className="text-4xl md:text-5xl font-bold mb-6">About MyJen Analytics</h2>
             
             <p className="text-lg text-muted-foreground leading-relaxed">
-              With years of experience transforming complex data into strategic business insights,
-              I help organizations leverage their data assets to drive growth and innovation.
+              With extensive experience in epidemiological research, program management, and data analysis,
+              I specialize in transforming complex health and organizational data into actionable insights
+              that drive strategic decision-making and measurable outcomes.
             </p>
 
             <p className="text-lg text-muted-foreground leading-relaxed">
-              My approach combines technical expertise with business acumen to deliver solutions
-              that are both analytically rigorous and practically applicable. I partner with clients
-              to understand their unique challenges and develop customized analytics strategies
-              that deliver measurable results.
+              My background includes managing statewide public health programs, conducting epidemiological
+              research, and providing training and technical assistance across California. I combine
+              advanced technical skills in SQL, Tableau, and Power BI with proven program evaluation
+              expertise to deliver data-driven solutions tailored to your organization's needs.
+            </p>
+
+            <p className="text-lg text-muted-foreground leading-relaxed">
+              From grant writing and budget management to needs assessment and curriculum development,
+              I partner with organizations to build sustainable data strategies that support growth,
+              compliance, and evidence-based programming.
             </p>
 
             <div className="pt-6">

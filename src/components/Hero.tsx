@@ -48,7 +48,7 @@ const Hero = () => {
         {/* Social Links */}
         <div className="flex items-center justify-center gap-4">
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/myla-jensen"
             target="_blank"
             rel="noopener noreferrer"
             className="w-12 h-12 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white hover:bg-white hover:text-primary transition-all"
@@ -56,7 +56,7 @@ const Hero = () => {
             <Linkedin className="w-5 h-5" />
           </a>
           <a
-            href="mailto:contact@myjenanalytics.com"
+            href="mailto:myjenanalytics@gmail.com"
             className="w-12 h-12 rounded-full bg-white/10 backdrop-blur-sm flex items-center justify-center text-white hover:bg-white hover:text-primary transition-all"
           >
             <Mail className="w-5 h-5" />

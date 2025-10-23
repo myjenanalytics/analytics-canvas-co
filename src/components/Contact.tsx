@@ -93,8 +93,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Email</h3>
-                  <a href="mailto:contact@myjenanalytics.com" className="text-muted-foreground hover:text-primary transition-colors">
-                    contact@myjenanalytics.com
+                  <a href="mailto:myjenanalytics@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
+                    myjenanalytics@gmail.com
                   </a>
                 </div>
               </CardContent>
@@ -107,8 +107,8 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-semibold mb-1">Phone</h3>
-                  <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors">
-                    (123) 456-7890
+                  <a href="tel:+17076647011" className="text-muted-foreground hover:text-primary transition-colors">
+                    (707) 664-7011
                   </a>
                 </div>
               </CardContent>
@@ -122,12 +122,12 @@ const Contact = () => {
                 <div>
                   <h3 className="font-semibold mb-1">LinkedIn</h3>
                   <a 
-                    href="https://linkedin.com" 
+                    href="https://www.linkedin.com/in/myla-jensen" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    Connect on LinkedIn
+                    linkedin.com/in/myla-jensen
                   </a>
                 </div>
               </CardContent>

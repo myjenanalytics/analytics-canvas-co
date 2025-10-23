@@ -4,33 +4,33 @@ import { BarChart3, Database, LineChart, TrendingUp, Brain, Presentation } from 
 const services = [
   {
     icon: BarChart3,
-    title: "Data Strategy",
-    description: "Develop comprehensive data strategies aligned with your business objectives to maximize ROI and competitive advantage."
+    title: "Program Evaluation & Assessment",
+    description: "Comprehensive needs assessments and program evaluations to measure impact, ensure compliance, and drive continuous improvement."
   },
   {
     icon: Database,
-    title: "Business Intelligence",
-    description: "Design and implement BI solutions that provide actionable insights through interactive dashboards and reports."
+    title: "Data Analysis & Reporting",
+    description: "Transform raw data into actionable insights using SQL, Tableau, Power BI, and advanced Excel analytics for informed decision-making."
   },
   {
     icon: LineChart,
-    title: "Advanced Analytics",
-    description: "Leverage statistical modeling and machine learning to uncover patterns, predict trends, and optimize performance."
+    title: "Epidemiological Research",
+    description: "Conduct rigorous epidemiological studies and statistical analysis to identify trends, assess risks, and support evidence-based interventions."
   },
   {
     icon: TrendingUp,
-    title: "Performance Optimization",
-    description: "Identify operational inefficiencies and implement data-driven solutions to improve productivity and reduce costs."
+    title: "Grant Writing & Budget Management",
+    description: "Develop compelling grant proposals and manage program budgets to secure funding and ensure efficient resource allocation."
   },
   {
     icon: Brain,
-    title: "Predictive Modeling",
-    description: "Build predictive models to forecast outcomes, assess risks, and support strategic decision-making."
+    title: "Training & Technical Assistance",
+    description: "Deliver customized training programs and ongoing technical support to build organizational capacity and data literacy."
   },
   {
     icon: Presentation,
-    title: "Data Visualization",
-    description: "Create compelling visual narratives that make complex data accessible and drive stakeholder engagement."
+    title: "Strategic Planning & Curriculum Development",
+    description: "Design data-driven strategic plans and culturally relevant educational materials that align with organizational goals and community needs."
   }
 ];
 
